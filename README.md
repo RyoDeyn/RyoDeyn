@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RyoDeyn, I'm a french student in Cybersecurity.
 - 💞 Love programming.
-- 🌱 Currently developping a Python script that could be useful in pentest.
+- 🌱 Currently developping two projects in Python.
 
 <!---
 -  I’m interested in ...
