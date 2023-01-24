@@ -2,6 +2,8 @@
 - 💞 Love programming.
 - 🌱 Currently developping two projects in Python.
 
+📜 Life is too complicated, let's try to make it easier.
+
 <!---
 -  I’m interested in ...
 - 🌱 I’m currently learning ...
