@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RyoDeyn, I'm a french student in Cybersecurity.
+- 👋 Hi, I’m @RyoDeyn, I'm a ![fr](images/fr.png) french student in Cybersecurity.
 - 💞 Love programming.
 - 🌱 Currently developping two projects in Python.
 
