@@ -1,10 +1,11 @@
+<!---
 - 👋 Hi, I’m @RyoDeyn, a french student in Cybersecurity.
 - 💞 Love programming.
 - 🌱 Currently developping two projects in Python.
 
 📜 Life is too complicated, let's try to make it easier.
 
-<!---
+
 -  I’m interested in ...
 - 🌱 I’m currently learning ...
 - 📫 How to reach me ...
